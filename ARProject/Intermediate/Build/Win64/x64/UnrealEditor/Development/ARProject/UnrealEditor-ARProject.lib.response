@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ARProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Jeon\Documents\FCLearn\ARProject\Intermediate\Build\Win64\x64\ARProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\Jeon\Documents\FCLearn\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\ARProject.init.gen.cpp.obj"
+"C:\Users\Jeon\Documents\FCLearn\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\ARProjectGameModeBase.gen.cpp.obj"
+"C:\Users\Jeon\Documents\FCLearn\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\ARProject.cpp.obj"
+"C:\Users\Jeon\Documents\FCLearn\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\ARProjectGameModeBase.cpp.obj"
+"C:\Users\Jeon\Documents\FCLearn\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\Default.rc2.res"
+/OUT:"C:\Users\Jeon\Documents\FCLearn\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\UnrealEditor-ARProject.lib"

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ARProject",
+			"Path": "C:\\Users\\Jeon\\Documents\\FCLearn\\ARProject\\Source\\ARProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ARProjectEditor",
+			"Path": "C:\\Users\\Jeon\\Documents\\FCLearn\\ARProject\\Source\\ARProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
