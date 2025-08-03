@@ -1,6 +1,8 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\Jeon\\Documents\\FCLearn\\ARProject\\Source\\ARProject\\ARProject.Build.cs",
+		"C:\\Users\\Jeon\\Documents\\FCLearn\\ARProject\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\Users\\Jeon\\Documents\\FCLearn\\ARProject\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
 		"C:\\Users\\Jeon\\Documents\\FCLearn\\ARProject\\Source\\ARProject.Target.cs",
 		"C:\\Users\\Jeon\\Documents\\FCLearn\\ARProject\\Source\\ARProjectEditor.Target.cs"
 	],
