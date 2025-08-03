@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Unreal Engine intermediate files
+ARProject/Intermediate/
+
 # Compiled Object files
 *.slo
 *.lo

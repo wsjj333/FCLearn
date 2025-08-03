@@ -1119,3 +1119,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.08.03-13.16.34:546][  0]LogViewport: Scene viewport resized to 2038x814, mode Windowed.
 [2025.08.03-13.16.34:996][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: '' 입력이 비었습니다.
 [2025.08.03-13.17.12:998][298]LogViewport: Scene viewport resized to 1014x376, mode Windowed.
+[2025.08.03-13.18.30:864][567]LogDerivedDataCache: C:/Users/Jeon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.091 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4093 files in 5411 folders with total size 316 MiB.
